@@ -1,4 +1,4 @@
-#Ankur Configurations
+# Ankur Configurations
 This is the github repository for the configurations files that I need for setting up laptop/PC for development or programming.
 
 ## Content
