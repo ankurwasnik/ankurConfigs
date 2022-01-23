@@ -2,7 +2,8 @@
 This is the github repository for the configurations files that I need for setting up laptop/PC for development or programming.
 
 ## Content
-1. Powershell
+1. Powershell - Windows commandline utility 
+2. Neovim - the best editor for commandline nerds
 
 
 ## Contact 
